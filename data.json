@@ -1,8 +1,8 @@
 { "cities": [{
   "name": "Woodburn",
   "image": "http://insideevs.com/wp-content/uploads/2013/08/Welcome.jpg",
-  "latitude": "45.147258",
-  "longitude": "122.858436",
+  "latitude": "122.858436",
+  "longitude": "45.147258",
   "farms": [
     {"name": "Baumans",
     "image": "http://www.fieldtripswithsue.com/blog/wp-content/uploads/2010/09/corn-maze.jpg",

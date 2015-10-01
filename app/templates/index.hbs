@@ -3,5 +3,7 @@
 <h2>Cities</h2>
 
 {{#each model as |city|}}
+  {{#link-to  'city' city.id}}
   {{city.name}}
+  {{/link-to }}
 {{/each}}
