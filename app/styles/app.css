@@ -1,4 +1,44 @@
 .map-display {
-  height: 600px;
-  width: 600px;
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  padding: 10px;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  background: url("/images/leaves.jpg") center top no-repeat;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+a {
+  color: black;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+.home-link {
+  float: right;
+  text
+}
+
+.house {
+  height: 30px;
+  width: 30px;
 }

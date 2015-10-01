@@ -1,17 +1,7 @@
 { "cities": [{
   "name": "Woodburn",
   "image": "http://insideevs.com/wp-content/uploads/2013/08/Welcome.jpg",
-  "latitude": "122.858436",
-  "longitude": "45.147258",
-  "farms": [
-    {"name": "Baumans",
-    "image": "http://www.fieldtripswithsue.com/blog/wp-content/uploads/2010/09/corn-maze.jpg",
-    "latitude": "45.1119347",
-    "longitude": "-122.8651657"},
-    {"name": "Fir Point Farms",
-      "image": "http://firpointfarms.com/wp-content/uploads/2008/03/harvest1.jpg",
-      "latitude": "14.5817",
-      "longitude": "90.5267"}
-    ]
+  "latitude": "45.143731",
+  "longitude": "-122.855372"
   }]
 }

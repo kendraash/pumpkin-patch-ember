@@ -2,7 +2,16 @@
 <h2>{{city.name}}</h2> <br>
 <img src="{{city.image}}"/>
 
+
 <br>
+<div class = "col-md-3">
+  <h3>
+    {{#each city.farms as |farm|}}
+      <li>{{farm.name}}</li>
+      {{google-map city=farm}}
+    {{/each}}
+  </h3>
+</div>
 
 <div>
   <h3>Map of {{city.name}}</h3>
